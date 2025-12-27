@@ -9,8 +9,12 @@ Focused on **arrays & objects** for clean, scalable quiz logic.
 
 ## 📸 Screenshots
 ![Screenshot](https://github.com/user-attachments/assets/12759871-1de2-44eb-bbaf-6ae9aed6bc7f)
+
+
 ![Screenshot](https://github.com/user-attachments/assets/489ec1e8-4a8d-47f4-9950-9fa627fea50c)
-![Screenshot](https://github.com/user-attachments/assets/12759871-1de2-44eb-bbaf-6ae9aed6bc7f)
+
+
+![Screenshot](https://github.com/user-attachments/assets/d6ce7bf2-2ff2-410d-872f-2557d644a0d9)
 
 
 
