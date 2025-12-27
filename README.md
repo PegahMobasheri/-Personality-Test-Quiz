@@ -6,7 +6,7 @@ Focused on **arrays & objects** for clean, scalable quiz logic.
 📸 **Screenshot:** ![Quiz Screenshot](PLACEHOLDER_FOR_IMAGE_URL)  
 
 
-🔗 **Live Demo:** [Try it here](PLACEHOLDER_FOR_LIVE_LINK)  
+🔗 **Live Demo:**(https://pegahmobasheri.github.io/-Personality-Test-Quiz/)  
 
 
 ✨ **Features:**  
