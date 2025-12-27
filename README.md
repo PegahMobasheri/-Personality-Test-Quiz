@@ -3,7 +3,13 @@
 Discover your core personality type with this fun and engaging quiz built using **JavaScript, Tailwind CSS & GSAP**.  
 Focused on **arrays & objects** for clean, scalable quiz logic.  
 
-📸 **Screenshot:** ![Quiz Screenshot](PLACEHOLDER_FOR_IMAGE_URL)  
+📸 **Screenshots:**(https://github.com/user-attachments/assets/12759871-1de2-44eb-bbaf-6ae9aed6bc7f)  
+
+📸 **Screenshots:**(https://github.com/user-attachments/assets/12759871-1de2-44eb-bbaf-6ae9aed6bc7f)  
+
+
+📸 **Screenshots:**(https://github.com/user-attachments/assets/12759871-1de2-44eb-bbaf-6ae9aed6bc7f)  
+
 
 
 🔗 **Live Demo:**(https://pegahmobasheri.github.io/-Personality-Test-Quiz/)  
