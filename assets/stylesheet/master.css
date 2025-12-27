@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Lalezar&display=swap);
+@import url(../fonts/remixicon.css);
+@import "tailwindcss";
+
+@layer utilities{
+    .testbd{
+        border: 2px solid rgb(243, 84, 35);
+    }
+    .font1{
+        font-family: "Lalezar", sans-serif;
+        color: rgb(20, 20, 20);
+
+    }
+    .font2{
+        font-family: "Vazirmatn", sans-serif;
+        font-weight:bold;
+        color: rgb(0, 0, 0);
+    }
+    .font3{
+         font-family: "Vazirmatn", sans-serif;
+        font-weight:bold;
+
+    }
+    .bd{
+        border: 1px solid rgba(10, 10, 10, 0.901);
+    }
+    .bd2{
+        border: 1px solid rgba(255, 255, 255, 0.901);
+    }
+
+}
+@font-face {
+    font-family: "remixicon";
+    src: url(../fonts/remixicon.ttf) format('truetype');
+}
+.active{
+    background-color: rgb(10, 10, 10);
+    color: white;
+}
